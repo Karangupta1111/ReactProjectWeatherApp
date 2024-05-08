@@ -122,7 +122,7 @@ function App() {
           )}
         </div>
         
-        <p><i className="fa-regular fa-copyright fa-fade " style={{color: "#361fa8"}}></i> 2023 atul.inc | All rights reserved</p>
+        <p><i className="fa-regular fa-copyright fa-fade " style={{color: "#361fa8"}}></i> 2024 karan.inc | All rights reserved</p>
       </div>
 
     </>
